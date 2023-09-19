@@ -26,9 +26,13 @@
 - [EA BF C9 83 C9 D0 67 82](https://keybase.io/ivysola/pgp_keys.asc?fingerprint=2d0c78d9a78e64296112e275eabfc983c9d06782)
 - [18 AA FB 68 00 E5 B4 1F](https://keybase.io/ivysola/pgp_keys.asc?fingerprint=1f77a0a09336f219a9d7acc418aafb6800e5b41f)
 
+[![](https://visitcount.itsvg.in/api?id=0xf6&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=0xf6&icon=0&color=0)](https://visitcount.itsvg.in)
-</details>
+</details>    
+
+
+
+
 
 
 
