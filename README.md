@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://0xf6.moe/" target="_blank">Yuuki</a> 
-<h3 align="center">Backend Architect</h3>
+<h3 align="center">Backend Architect / Hardware Engineer</h3>
 
 
 - :telescope: I'm currently working on my game in steam 
 
-- :seedling: Exploring shaders and gaming network technologies
+- :seedling: Exploring shaders, gaming network and electronics
 
 - :zap: In my free time, I play different games and research of interesting technologies and tools
 
