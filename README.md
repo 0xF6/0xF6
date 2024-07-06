@@ -2,13 +2,13 @@
 <h3 align="center">Backend Architect / Hardware Engineer</h3>
 
 
-- :telescope: I'm currently working on my game in steam 
+- :telescope: I'm currently working on my game in steam and my programming language
 
 - :seedling: Exploring shaders, gaming network and electronics
 
 - :zap: In my free time, I play different games and research of interesting technologies and tools
 
-- 💼 Ask me about anything related to .NET, ASP.NET, Unity Engine, SteamSDK, IoT, PCB Development
+- 💼 Ask me about anything related to .NET, ASP.NET, Unity Engine, SteamSDK, IoT, PCB Development, Language Development, Compilers
 
 - :mailbox: Telegram [@yuuki](https://yuuki.t.me)
 
