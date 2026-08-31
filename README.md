@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://0xf6.moe/" target="_blank">Yuuki</a></h1>
+<h1 align="center">Hi there, I'm Yuuki</h1>
 <h3 align="center">Backend Architect / Hardware Engineer</h3>
 
 - :telescope: I'm currently working on **[Red Pew Engine](https://pew.red)** — game engine, and **[argon.gl](https://argon.gl)** — voice chat & communities platform
